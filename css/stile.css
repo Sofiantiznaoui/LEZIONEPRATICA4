@@ -1,0 +1,933 @@
+ body {
+  font-family: 'Roboto', sans-serif;
+ 
+ 
+  }
+ main {
+    width: 100%;
+    height: 2266px;
+    background: rgba(255,255,255,1);
+    opacity: 1;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .rectangle p {
+   
+    
+    
+    
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 56px;
+  text-align: center;
+  padding: 90px;
+
+ 
+  color: #000000;
+  }
+  header {
+    width: 100%;
+    height: 170px;
+    background: rgba(217,217,217,1);
+    opacity: 1;
+    position: relative;
+    top: 0px;
+    left: 0px;
+  
+  }
+  header h1 {
+    width: 260px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 27px;
+    left: 146px;
+    font-family: Roboto;
+    font-weight: Bold;
+    font-size: 48px;
+    opacity: 1;
+    text-align: center;
+
+  
+  }
+
+  header h2 {
+    position: absolute;
+    width: 315px;
+    height: 56px;
+    left: 563px;
+    top: -10px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 56px;
+    text-align: center;
+    
+    color: #000000;
+    
+
+
+
+  }
+  a[href="index.html"]  {
+    width: 126px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 45px;
+    left: 1168px;
+    font-family: Roboto;
+    font-weight: Bold;
+    font-size: 24px;
+    opacity: 1;
+    text-align: center;
+  }
+  a[href="chisiamo.html"] {
+    width: 126px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 45px;
+    left: 1022px;
+    font-family: Roboto;
+    font-weight: Bold;
+    font-size: 24px;
+    opacity: 1;
+    text-align: center;
+  }
+ 
+  .rectangle {
+    position: absolute;
+    width: 1148px;
+    height: 360px;
+    left: 146px;
+    top: 382px;
+    background: #FFC566;
+    
+  }
+  section.copertina h2 {
+    width: 808px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 518px;
+    left: 316px;
+    font-family: Roboto;
+    font-weight: Bold;
+    font-size: 48px;
+    opacity: 1;
+    text-align: center;
+  }
+  .card1 > a > img {
+    width: 272px;
+    height: 361px;
+    background: url("../images/camilo_home.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 953px;
+    left: 147px;
+    overflow: hidden;
+  }
+  .card2 > a > img {
+    width: 272px;
+    height: 361px;
+    background: url("../images/tim_home.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 953px;
+    left: 584px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    overflow: hidden;
+  }
+  .card3 > a > img {
+    width: 273px;
+    height: 361px;
+    background: url("../images/karlotta_home.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 952px;
+    left: 1021px;
+    overflow: hidden;
+
+  }
+  .card4 > a > img {
+    position: absolute;
+    top: 1500px;
+    left: 147px;
+    width: 272px;
+    height: 361px;
+    background: url("../images/xoana_home.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    overflow: hidden;
+  }
+  
+  .card5 > a > img {
+    position: absolute;
+    top: 1500px;
+    left: 584px;
+    width: 272px;
+    height: 361px;
+    background: url("../images/linn_home.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    overflow: hidden;
+  }
+  
+  .card6 > a > img {
+    position: absolute;
+    top: 1500px;
+    left: 1021px;
+    width: 272px;
+    height: 361px;
+    background: url("../images/laboca_home.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    overflow: hidden;
+  }
+  .card1 > h3 {
+    width: 272px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 1334px;
+    left: 147px;
+    font-family: Roboto;
+    font-weight: Bold;
+    font-size: 32px;
+    opacity: 1;
+    text-align: left;
+  }
+  .card2 > h3 {
+    width: 272px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 1905px;
+    left: 146px;
+    font-family: Roboto;
+    font-weight: Bold;
+    font-size: 32px;
+    opacity: 1;
+    text-align: left;
+  }
+  .card3 > h3 {
+    width: 272px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 1905px;
+    left: 586px;
+    font-family: Roboto;
+    font-weight: Bold;
+    font-size: 32px;
+    opacity: 1;
+    text-align: left;
+  }
+  .card4 > h3 {
+    width: 272px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 1905px;
+    left: 1026px;
+    font-family: Roboto;
+    font-weight: Bold;
+    font-size: 32px;
+    opacity: 1;
+    text-align: left;
+  }
+  .card5 > h3 {
+    width: 272px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 1334px;
+    left: 584px;
+    font-family: Roboto;
+    font-weight: Bold;
+    font-size: 32px;
+    opacity: 1;
+    text-align: left;
+  }
+  .card6 > h3 {
+    width: 272px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 1334px;
+    left: 1022px;
+    font-family: Roboto;
+    font-weight: Bold;
+    font-size: 32px;
+    opacity: 1;
+    text-align: left;
+  }
+  footer {
+    position: absolute;
+    width: 100%;
+    height: 110px;
+    left: 2px;
+    
+    
+    background: #D9D9D9;
+  }
+  footer p {
+    position: absolute;
+    width: 267px;
+    height: 38px;
+    left: 143px;
+    top: 8px;
+
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 28px;
+  text-align: center;
+
+  color: #000000;
+  }
+  
+
+
+
+  .header2 {
+    width: 100%;
+    height: 110px;
+    background: rgba(217,217,217,1);
+    opacity: 1;
+    position: relative;
+    top: 0px;
+    left: 0px;
+  
+  }
+  main.main2 img[src="immagini/AP_Camilo_Huinca_social-well_2x.png"] {
+    position: absolute;
+    width: 1148px;
+    height: 550px;
+    position: absolute;
+    left: 146px;
+    top: 171px;
+    
+    
+   
+
+  }
+  main.main2 img[src="immagini/AP_Camilo_Huinca_Match-Point_2x-scaled.png"] {
+    position: absolute;
+    width: 459px;
+    height: 551px;
+    left: 125px;
+    top: 953px;
+
+  }
+  
+  main.main2 img[src="immagini/AP_Camilo_Huinca_Tired-Swimmer_2x-scaled.png"] {
+    position: absolute;
+    width: 300px;
+    height: 362px;
+    left: 1009px;
+    top: 952px;
+
+
+  }
+  
+  main.main2 img[src="immagini/AP_Camilo_Huinca_THE-NEW-YORKER_2x-scaled.png"] {
+    position: absolute;
+    width: 297px;
+    height: 391px;
+    left: 134px;
+    top: 1703px;
+  }
+  
+  main.main2 img[src="immagini/AP_Camilo_Huinca_The-Atlantic-03_2x.png"] {
+    position: absolute;
+    width: 418px;
+    height: 552px;
+    left: 876px;
+    top: 1524px;
+  }
+  main.main2 h4 {
+    position: absolute;
+    width: 312px;
+    height: 514px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+
+    color: #000000;
+    left: 595px;
+    top: 918px;
+
+
+  }
+  main.main2 img[src="immagini/AP_Tim_Lahan_ONEMEDICAL_2_2x (1).png"] {
+    position: absolute;
+    width: 1148px;
+    height: 550px;
+    position: absolute;
+    left: 146px;
+    top: 171px;
+    
+    
+   
+
+  }
+
+
+
+
+
+
+
+
+
+  main.main3 img[src="immagini/AP_Tim_Lahan_ONEMEDICAL_2_2x (1).png"] {
+    position: absolute;
+    width: 1148px;
+    height: 552px;
+    left: 146px;
+    top: 190px;
+
+  }
+  
+  main.main3 img[src="immagini/AP_Tim_Lahan_emotions_3_2x.png"] {
+    position: absolute;
+    width: 418px;
+    height: 552px;
+    left: 146px;
+    top: 952px;
+   
+
+  }
+  
+  main.main3 img[src="immagini/AP_Tim_Lahan_emotions_1_2x.png"] {
+    position: absolute;
+    width: 297px;
+    height: 391px;
+    left: 134px;
+    top: 1703px;
+  }
+  
+  main.main3 img[src="immagini/AP_Tim_Lahan_emotions_4_2x.png"] {
+    position: absolute;
+    width: 418px;
+    height: 552px;
+    left: 876px;
+    top: 1524px;
+    
+  }
+
+  main.main3 img[src="immagini/AP_Tim_Lahan_emotions_2_2x.png"] {
+    position: absolute;
+    width: 272px;
+    height: 362px;
+    left: 1022px;
+    top: 952px;
+    
+
+  }
+  main.main3 h4 {
+   
+
+    position: absolute;
+    width: 312px;
+    height: 514px;
+    left: 595px;
+    top: 918px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+
+    color: #000000;
+
+  
+  }
+
+
+
+
+
+
+
+
+  main.main2 img[src="immagini/AP1_Karlotta_Freier_Nytimes1_2x.jpg"] {
+    position: absolute;
+    width: 1148px;
+    height: 550px;
+    position: absolute;
+    left: 146px;
+    top: 171px;
+    
+    
+   
+
+  }
+  main.main2 img[src="immagini/AP2_Karlotta_Freier_debutea2_2x-scaled.png"] {
+    position: absolute;
+    width: 459px;
+    height: 551px;
+    left: 125px;
+    top: 953px;
+
+  }
+  
+  main.main2 img[src="immagini/AP3_Karlotta_Freier_hermes-color_2x.png"] {
+    position: absolute;
+    width: 300px;
+    height: 362px;
+    left: 1009px;
+    top: 952px;
+
+
+  }
+  
+  main.main2 img[src="immagini/AP4_Karlotta_Freier_dogtown_2x.png"] {
+    position: absolute;
+    width: 297px;
+    height: 391px;
+    left: 134px;
+    top: 1703px;
+  }
+  
+  main.main2 img[src="immagini/AP5_Karlotta_Freier_brand-eins_2x-scaled.png"] {
+    position: absolute;
+    width: 418px;
+    height: 552px;
+    left: 900px;
+    top: 1524px;
+  }
+  main.main2 h5 {
+    position: absolute;
+    width: 312px;
+    height: 514px;
+    left: 638px;
+    top: 910px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+
+    color: #000000;
+
+
+
+  }
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  main.main2 img[src="immagini/AP01_Xoana_Herrera_GCR_9_2x.jpg"] {
+    position: absolute;
+    width: 1148px;
+    height: 550px;
+    position: absolute;
+    left: 146px;
+    top: 171px;
+    
+    
+   
+
+  }
+  main.main2 img[src="immagini/AP02_Xoana_Herrera_Pajaro_2x-scaled.png"] {
+    position: absolute;
+    width: 459px;
+    height: 551px;
+    left: 145px;
+    top: 953px;
+
+  }
+  
+  main.main2 img[src="immagini/AP03_Xoana_Herrera_Nike_2x-scaled.png"] {
+    position: absolute;
+    width: 300px;
+    height: 362px;
+    left: 995px;
+    top: 952px;
+
+
+  }
+  
+  main.main2 img[src="immagini/AP04_Xoana_Herrera_GCR_1_2x-scaled.png"] {
+    position: absolute;
+    width: 297px;
+    height: 391px;
+    left: 145px;
+    top: 1703px;
+  }
+  
+  main.main2 img[src="immagini/AP05_Xoana_Herrera_Mono_2x-scaled.png"] {
+    position: absolute;
+    width: 418px;
+    height: 552px;
+    left: 876px;
+    top: 1524px;
+  }
+  main.main2 h5 {
+    position: absolute;
+    width: 312px;
+    height: 514px;
+    left: 638px;
+    top: 910px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+
+    color: #000000;
+
+
+
+  }
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  main.main2 img[src="immagini/AP_Linn01_Fritz_MadeToFlourish_2x.jpg"] {
+    position: absolute;
+    width: 1148px;
+    height: 550px;
+    position: absolute;
+    left: 146px;
+    top: 171px;
+    
+    
+   
+
+  }
+  main.main2 img[src="immagini/AP_Linn02_Fritz_North_Live_LF3_2x-scaled.png"] {
+    position: absolute;
+    width: 459px;
+    height: 551px;
+    left: 145px;
+    top: 953px;
+
+  }
+  
+  main.main2 img[src="immagini/AP_Linn03_Fritz_Blue03_2x.png"] {
+    position: absolute;
+    width: 300px;
+    height: 362px;
+    left: 995px;
+    top: 952px;
+
+
+  }
+  
+  main.main2 img[src="immagini/AP_Linn04_Fritz_Blue01_2x.jpg"] {
+    position: absolute;
+    width: 297px;
+    height: 391px;
+    left: 145px;
+    top: 1703px;
+  }
+  
+  main.main2 img[src="immagini/AP_Linn05_Fritz_North_Live_LF2_2x-scaled.png"] {
+    position: absolute;
+    width: 418px;
+    height: 552px;
+    left: 876px;
+    top: 1524px;
+  }
+  main.main2 h5 {
+    position: absolute;
+    width: 312px;
+    height: 514px;
+    left: 638px;
+    top: 910px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+
+    color: #000000;
+
+
+
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  main.main2 img[src="immagini/AP_La_Boca01_NYT_THRILLER_2x.png"] {
+    position: absolute;
+    width: 1148px;
+    height: 550px;
+    position: absolute;
+    left: 146px;
+    top: 171px;
+    
+    
+   
+
+  }
+  main.main2 img[src="immagini/AP_La_Boca02_STLYIST_B_2x.png"] {
+    position: absolute;
+    width: 459px;
+    height: 551px;
+    left: 134px;
+    top: 953px;
+
+  }
+  
+  main.main2 img[src="immagini/AP_La_Boca03_Suspiria_STYLE_A_2x-scaled.png"] {
+    position: absolute;
+    width: 300px;
+    height: 362px;
+    left: 995px;
+    top: 952px;
+
+
+  }
+  
+  main.main2 img[src="immagini/AP_La_Boca04_Suspiria_STYLE_B_2x-scaled.png"] {
+    position: absolute;
+    width: 297px;
+    height: 391px;
+    left: 134px;
+    top: 1703px;
+  }
+  
+  main.main2 img[src="immagini/AP_La_Boca05_STLYIST_C_2x.png"] {
+    position: absolute;
+    width: 418px;
+    height: 552px;
+    left: 876px;
+    top: 1524px;
+  }
+  main.main2 h5 {
+    position: absolute;
+    width: 312px;
+    height: 514px;
+    left: 638px;
+    top: 910px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+
+    color: #000000;
+
+
+
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  main.main2 img[src="immagini/icone.webp"] {
+    position: absolute;
+    width: 272px;
+    height: 362px;
+    left: 146px;
+   top: 1714px;
+
+  }
+  
+  main.main2 img[src="immagini/scarica.png"] {
+    position: absolute;
+    width: 292px;
+    height: 179px;
+    left: 564px;
+    top: 1906px;
+  }
+  
+  main.main2 img[src="immagini/newsletter.png"] {
+    position: absolute;
+    width: 241px;
+    height: 168px;
+    left: 1053px;
+    top: 1908px;
+
+  }
+  main.main2 h6 {
+    position: absolute;
+    width: 856px;
+    height: 163px;
+    top:50px;
+    left:130px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+
+    color: #000000;
+
+
+
+  }
+  main.main2 h8 {
+    position: absolute;
+    width: 126px;
+    height: 42px;
+    left: 146px;
+    top: 1673px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    
+    color: #000000;
+    
+
+
+
+  }
+
+  @media (max-width: 400px) { 
+    body { 
+        background: chartreuse;
+    }
+  }
+
+  @media (max-width: 800px) { 
+    body { 
+        background: yellow;
+    }
+    header .header2 {
+      width:100%;
+      height: 170px;
+      
+    
+  }
+
+  .rectangle {
+    width: 100%;
+    height: auto;
+    background: #FFC566;
+    
+  }
+  main {
+    width: 100%;
+    height:auto;
+    .card1 > a > img,
+    .card2 > a > img,
+    .card3 > a > img,
+    .card4 > a > img,
+    .card5 > a > img,
+    .card6 > a > img {
+    width: 100%;
+    height: auto;
+    position: relative;
+    top: 0;
+    left: 0;
+    background-size: contain;
+    background-position: center;
+    box-shadow: none;
+    
+  }
+}
+
+  .main2 .main3 img {
+    width: 100%;
+    height: auto;
+    position: relative;
+    top: 0;
+    left: 0;
+    background-size: contain;
+    background-position: center;
+    box-shadow: none;
+}
+
+  
+  
+
+  header h1  {
+    width: 100%;
+    max-width: 260px;
+    font-size: 5vw;
+    top: 10%;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+  }
+  a[href="chisiamo.html"] {
+    width: auto;
+    max-width: 100%;
+    font-size: 4vw;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+  }
+  
+
+  
+}
